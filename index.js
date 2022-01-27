@@ -7,7 +7,7 @@ const webhook = new Topgg.Webhook('<webhook-auth>') //It can be anything
 
 app.post('/vote', webhook.listener(vote => { //ending url
     let value = JSON.stringify({
-        content : `<@${vote.user}> voted for Raiden`
+        content : `<@${vote.user}> voted`
     })
     fetch(`<discord-webhook-url>`, {
         method : 'POST',
@@ -19,5 +19,5 @@ app.post('/vote', webhook.listener(vote => { //ending url
   
 }))
 
-app.listen(0101) //port of the console panel
+app.listen(port-here) //port of the console panel
 console.log(`Top.gg webhook is ready to go.`)
