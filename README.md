@@ -57,6 +57,6 @@ Some entries to be filled in index.js:
 ## Support
 Join one of these Discord Servers, to get support:
 
-![Discord Banner 2](https://discordapp.com/api/guilds/890225986375929866/widget.png?style=banner2)
+<img src="https://discordapp.com/api/guilds/890225986375929866/widget.png?style=banner1" url='https://discord.gg/2SEEZ86pyj' alt="Discord Banner 1"/>
 
-![Discord Banner 2](https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2)
+<img src="https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner1" url='https://discord.gg/TvjrWtEuyP' alt="Discord Banner 1"/>
