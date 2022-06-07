@@ -31,10 +31,10 @@ gh repo clone Elitex07/dblwebhook
 ### 2. Fill the entried in index file.
 Some entries to be filled in index.js:
 - Webhook-Auth on Line 6: Authorization Text in Webhook section on Top.gg (Descided by User on Top.gg)
-![Imgur](https://imgur.com/flD6Duq)
+<blockquote class="imgur-embed-pub" lang="en" data-id="flD6Duq"><a href="https://imgur.com/flD6Duq">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 - Discord Webook URl on Line 12: Add a Discord Webhook URL - to create one, to Channel Settings -- Integration -- Create Webhook
 - Port on linw 22: Enter the port of your console of the Host. If hosted by sources like VPS or Windows Terminal: Enter a Random Number [remmeber this number, we would require in furthur steps]
-![Imgur](https://imgur.com/gy8NgW6)
+<blockquote class="imgur-embed-pub" lang="en" data-id="gy8NgW6"><a href="https://imgur.com/gy8NgW6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 - Save the File
 
 ### 3. Let's Start
@@ -51,11 +51,10 @@ Some entries to be filled in index.js:
 - Get the console URL and port
 - Head to Webhook section in Top.gg
 - Paste the console link
-- Add Port and /vote to the end. i.e. if my console url is sftp://abc.net then make it sftp://abc.net:port/vote
+- Add Port and /vote to the end. i.e. if my console url is `sftp://abc.net` then make it `sftp://abc.net:port/vote`
 - Save the Stuff and Run a Test
 
 ## Support
 Join one of these Discord Servers, to get support:
 - [Raiden Community](https://discord.gg/2SEEZ86pyj)
 - [FlameQuard](https://discord.gg/TvjrWtEuyP)
-<img src="https://discord.com/widget?id=890225986375929866&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
