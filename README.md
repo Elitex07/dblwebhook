@@ -56,5 +56,5 @@ Some entries to be filled in index.js:
 
 ## Support
 Join one of these Discord Servers, to get support:
-- [Raiden Community](https://discord.gg/2SEEZ86pyj)
-- [FlameQuard](https://discord.gg/TvjrWtEuyP)
+![Discord Banner 2](https://discordapp.com/api/guilds/890225986375929866/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/789443193989103648/widget.png?style=banner2)
