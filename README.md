@@ -30,12 +30,12 @@ gh repo clone Elitex07/dblwebhook
 
 ### 2. Fill the entried in index file.
 Some entries to be filled in index.js:
-- Webhook-Auth on Line 6: Authorization Text in Webhook section on Top.gg (Descided by User on Top.gg)
+- Webhook-Auth on Line 6: Authorization Text in Webhook section on Top.gg (Decided by User on Top.gg)
 <img src="https://i.imgur.com/flD6Duq.png">
 
 - Discord Webook URl on Line 12: Add a Discord Webhook URL - to create one, to Channel Settings -- Integration -- Create Webhook
 
-- Port on linw 22: Enter the port of your console of the Host. If hosted by sources like VPS or Windows Terminal: Enter a Random Number [remmeber this number, we would require in furthur steps]
+- Port on line 22: Enter the port of your console of the Host. If hosted by sources like VPS or Windows Terminal: Enter a Random Number [remmeber this number, we would require in furthur steps]
 
 <img src="https://i.imgur.com/gy8NgW6.png">
 
