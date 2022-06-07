@@ -31,10 +31,10 @@ gh repo clone Elitex07/dblwebhook
 ### 2. Fill the entried in index file.
 Some entries to be filled in index.js:
 - Webhook-Auth on Line 6: Authorization Text in Webhook section on Top.gg (Descided by User on Top.gg)
-<blockquote class="imgur-embed-pub" lang="en" data-id="flD6Duq"><a href="https://imgur.com/flD6Duq">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="flD6Duq"><a href="https://imgur.com/flD6Duq">View post on imgur.com</a></blockquote>
 - Discord Webook URl on Line 12: Add a Discord Webhook URL - to create one, to Channel Settings -- Integration -- Create Webhook
 - Port on linw 22: Enter the port of your console of the Host. If hosted by sources like VPS or Windows Terminal: Enter a Random Number [remmeber this number, we would require in furthur steps]
-<blockquote class="imgur-embed-pub" lang="en" data-id="gy8NgW6"><a href="https://imgur.com/gy8NgW6">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="gy8NgW6"><a href="https://imgur.com/gy8NgW6">View post on imgur.com</a></blockquote>
 - Save the File
 
 ### 3. Let's Start
