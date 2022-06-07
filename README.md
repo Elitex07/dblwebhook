@@ -58,4 +58,4 @@ Some entries to be filled in index.js:
 Join one of these Discord Servers, to get support:
 - [Raiden Community](https://discord.gg/2SEEZ86pyj)
 - [FlameQuard](https://discord.gg/TvjrWtEuyP)
-<iframe src="https://discord.com/widget?id=890225986375929866&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<img src="https://discord.com/widget?id=890225986375929866&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
