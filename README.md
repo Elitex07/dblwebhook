@@ -7,6 +7,7 @@ When a Discord User votes your bot/server on [Top.gg](https://top.gg), it sends 
 ## Guide
 ### #Requirements:
 - Have a 24/7 Host. e.g. [Alaister.net](https://alaister.net/)
+- Node.JS Engine [Download](https://nodejs.org/dist/v16.15.1/node-v16.15.1-x64.msi)
 - Git Software [Download Link](https://git-scm.com/downloads)
 - Knowledge of Ports
 - Basic Knowlegde of Webhooks
