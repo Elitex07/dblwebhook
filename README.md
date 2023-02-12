@@ -2,7 +2,7 @@
 In this repository, you will see how to make a basic webhook. A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks. These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application. [Wikipedia](https://en.wikipedia.org/wiki/Webhook).
 
 ## Working
-When a Discord User votes your bot/server on [Top.gg](https://top.gg), it sends a HTTP response to the given webhook address. We are not able to use Discord's Channel Webhooks, as they do not accept HTTP reponses. But we have made a solution, this snippet will parse the HTTP response and will send the response to a discord channel via Discord Webhook.
+When a Discord User votes your bot/server on [Top.gg](https://top.gg), it sends a HTTP response to the given webhook address. We are not able to use Discord's Channel Webhooks, as they do not accept HTTP reponses. But we have made a solution, this snippet will parse the HTTP response and will send the response to a discord channel via Discord Webhook. 
 
 ## Guide
 ### #Requirements:
